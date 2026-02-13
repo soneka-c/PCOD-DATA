@@ -1,17 +1,18 @@
 # PCOD Risk Calculator (Python)
 
-## 📌 Overview
+##  Overview
 
-This project is a simple Python-based PCOD (Polycystic Ovarian Disease) risk score calculator. It collects basic clinical indicators from the user and estimates a risk score using rule-based logic. The project is built as a beginner-friendly healthcare + Python + Git workflow practice project.
+This project was created as part of my learning journey in Python and healthcare AI after completing my PharmD degree. This project is a simple Python-based PCOD (Polycystic Ovarian Disease) risk score calculator. It collects basic clinical indicators from the user and estimates a risk score using rule-based logic. The project is built as a beginner-friendly healthcare + Python + Git workflow practice project.
 
-## 🎯 Purpose
+##  Purpose
 
+I wanted to practice Python programming and GitHub workflow by building a small healthcare-related tool. Since PCOD is a common clinical condition, I chose it as a sample use case.
 * Practice Python scripting
 * Learn Git & GitHub workflow
 * Build healthcare-oriented mini tools
 * Create an AI/health portfolio starter project
 
-## 🧪 Inputs Used
+##  Inputs Used
 
 The calculator asks for:
 
@@ -20,7 +21,7 @@ The calculator asks for:
 * Acne presence (yes/no)
 * Excess hair growth (yes/no)
 
-## ⚙️ How It Works
+##  How It Works
 
 Each risk factor contributes to a score.
 Higher total score → higher PCOD risk category.
@@ -31,7 +32,7 @@ Risk categories:
 * Moderate risk
 * High risk (clinical evaluation recommended)
 
-## ▶️ How to Run
+##  How to Run
 
 ### Step 1 — Install Python
 
@@ -47,7 +48,7 @@ python pcod_risk.py
 
 Provide values when prompted in the terminal.
 
-## 🧠 Example Run
+##  Example Run
 
 ```
 PCOD Risk Score Calculator
@@ -60,19 +61,19 @@ Risk Score: 8
 High PCOD risk — clinical evaluation recommended
 ```
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 pcod_risk.py
 README.md
 ```
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 This tool is for educational and demonstration purposes only.
 It is not a medical diagnostic system and should not be used for clinical decision-making.
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 * Dataset-based risk model
 * Machine learning prediction
@@ -82,4 +83,4 @@ It is not a medical diagnostic system and should not be used for clinical decisi
 
 ## 👤 Author
 
-Beginner healthcare-AI project — Python + GitHub practice.
+Sonika— PharmD graduate with experienced profile exploring Healthcare AI and Data Science. Beginner healthcare-AI project — Python + GitHub practice.
